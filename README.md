@@ -15,6 +15,10 @@
 - Kang Ruize (Coding)
 - Advisor: Shi Shengzhu
 
+## 获奖证书
+
+<img src="images\image-20250605223040150.png" alt="image-20250605223040150" style="zoom:50%;" />
+
 ## 文件内容说明
 
 本次比赛使用开源*mcmthesis-master*模板进行修改。*tex*文件为源代码，绘图和插入图片在*figures*文件夹中
