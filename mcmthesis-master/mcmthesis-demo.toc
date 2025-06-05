@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Related Reports and Status}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Overview of Our Work}{5}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Assumptions and Justifications}{6}{section.2}%
+\contentsline {section}{\numberline {3}Notations and Description}{7}{section.3}%
+\contentsline {section}{\numberline {4}Model Preparation}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data Collection}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Preliminary Analysis}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Model I :Sustainable Tourism Model}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Model Construnction and Analysis}{9}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Optimization of Economic Revenue Model}{9}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Refinement of the Environmental Factor Model}{9}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Improvement of the Infrastructure Pressure Model}{10}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Deepening of the Residents' Satisfaction Model}{10}{subsubsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.2}Comprehensive Evaluation}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Conclusion Analysis}{13}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Model II :Attraction Promotion Model}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Model Applications in Other Destinations}{16}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Visitor Recommendation Model}{17}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Conclusion Analysis}{19}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Sensitivity Analysis}{20}{section.7}%
+\contentsline {section}{\numberline {8}Model Evaluation}{21}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Strengths}{21}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Weaknesses and Possible Improvements}{21}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Conclusion and Further Discussion}{22}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Summary of Results}{22}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Future Discussion}{22}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Memo}{23}{section.10}%
+\contentsline {section}{\numberline {11}Report on Use of AI}{25}{section.11}%
